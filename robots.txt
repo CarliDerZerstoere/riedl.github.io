@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://CarliDerZerstoere.github.io/sitemap.xml
+Sitemap: https://CarliDerZerstoere.github.io/riedl.github.io/sitemap.xml
